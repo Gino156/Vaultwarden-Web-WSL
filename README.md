@@ -1,7 +1,7 @@
 # Self-Hosted Vaultwarden with HTTPS (Docker & WSL Ubuntu)
 
 A simplified, step-by-step guide to running **Vaultwarden** locally using Docker Compose, securing it with local SSL certificates via `mkcert` on WSL Ubuntu.
-
+ 
 ---
 
 ## 📋 Prerequisites
